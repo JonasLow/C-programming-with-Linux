@@ -1,0 +1,6 @@
+Vega 9600 50
+Sirius_B 25000 0.0295
+Betelgeuse 3500 1350000
+Polaris 6900 2200
+Sun 5800 1
+Sirius 9900 25
